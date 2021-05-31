@@ -1,0 +1,23 @@
+body{
+    background: linear-gradient(to bottom right, beige, pink, purple)
+}
+
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.copyrightfooter{
+    text-align: center;
+    bottom: 0px;
+    width: 100%;
+    position: fixed;
+    background-color: white;
+}
+
+canvas{
+    border-radius: 10px;
+    box-shadow: 18px 18px 5px pink;
+    margin-top: 10px;
+}
